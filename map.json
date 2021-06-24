@@ -370,7 +370,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":".\/files\/Steruerrecht.pdf"
+                 "value":".\/files\/Steuerrecht.pdf"
                 }],
          "type":"tilelayer",
          "visible":true,
